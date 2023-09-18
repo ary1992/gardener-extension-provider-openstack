@@ -2,8 +2,6 @@ module github.com/gardener/gardener-extension-provider-openstack
 
 go 1.21
 
-toolchain go1.21.0
-
 require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/sprig v2.22.0+incompatible
